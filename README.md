@@ -5,7 +5,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VStahelin&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VStahelin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VStahelin&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VStahelin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
