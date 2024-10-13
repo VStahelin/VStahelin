@@ -31,7 +31,7 @@ vitor.introduce()
 
 ### 🛠️ Tech Stack:
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge" alt="Django" />
@@ -40,6 +40,7 @@ vitor.introduce()
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" />
   <img src="https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
   <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
 </p>
 
 
@@ -51,14 +52,6 @@ vitor.introduce()
 - [**CMS Portfolio**](https://github.com/VStahelin/cms-portfolio): Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages. (GH Actions)
 - [**LOL Live Team Companion**](https://github.com/VStahelin/lol-live-team-companion): Little project to monitor League of Legends client and server live data to send everything to a shared dashboard. **~In progress**
 
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VStahelin&theme=blueberry&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VStahelin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
-</p>
 
 ### 📬 Get in Touch:
 
