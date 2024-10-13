@@ -1,7 +1,7 @@
 # 👋 Hello, I am Vitor José Stähelin!
 
 ```python
-class Developer:
+class Engineer:
     def __init__(
             self,
             name: str,
@@ -24,9 +24,9 @@ class Developer:
         print("🚀 Always exploring new technologies and creating efficient solutions")
 
 
-vitor = Developer(
+vitor = Engineer(
     name="Vitor José Stähelin",
-    title="Full-Stack Developer",
+    title="Full-Stack Engineer",
     current_work="Zarpo Viagens",
     experience_years=6,
     technologies=["Python", "TypeScript", "Django", "React", "Docker"],
@@ -37,8 +37,8 @@ if __name__ == "__main__":
 
 # Output:
 # 👋 Hello, I am Vitor José Stähelin!
-# 🧑‍💻 Full-Stack Developer | Python 🐍 Lover | Technology Explorer 💡
-# 💼 Currently a Full-Stack Developer at Zarpo Viagens
+# 🧑‍💻 Full-Stack Engineer | Python 🐍 Lover | Technology Explorer 💡
+# 💼 Currently a Full-Stack Engineer at Zarpo Viagens
 # 👨‍💻 Over 6 years of experience with Python, TypeScript, Django, React, Docker
 # 🚀 Always exploring new technologies and creating efficient solutions
 ```
