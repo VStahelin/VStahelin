@@ -3,16 +3,17 @@
 
 ```python
 class Developer:
-    def __init__(self, name, title, experience_years, technologies):
+    def __init__(self, name: str, title: str, current_work: str ,experience_years: int, technologies: list[str]):
         self.name = name
         self.title = title
+        self.current_work = current_work
         self.experience_years = experience_years
         self.technologies = technologies
 
     def introduce(self):
         print(f"👋 Hello, I am {self.name}!")
         print(f"🧑‍💻 {self.title} | Python 🐍 Lover | Technology Explorer 💡")
-        print(f"💼 Currently a {self.title} at Zarpo Viagens")
+        print(f"💼 Currently a {self.title} at {self.current_work}")
         print(f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}")
         print("🚀 Always exploring new technologies and creating efficient solutions")
 
@@ -20,12 +21,20 @@ class Developer:
 vitor = Developer(
     name="Vitor José Stähelin",
     title="Full-Stack Developer",
+    current_work="Zarpo Viagens",
     experience_years=6,
-    technologies=["Python", "APIs", "IoT", "Embedded Systems"]
+    technologies=["Python", "TypeScript", "Django", "React", "Docker"]
 )
 
 # Calling the introduction function
 vitor.introduce()
+
+# Output:
+# 👋 Hello, I am Vitor José Stähelin
+# 🧑‍💻 Full-Stack Developer | Python 🐍 Lover | Technology Explorer 💡
+# 💼 Currently a Full-Stack Developer at Zarpo Viagens
+# 👨‍💻 Over 6 years of experience with Python, TypeScript, Django, React, Docker
+# 🚀 Always exploring new technologies and creating efficient solutions
 ```
 
 
