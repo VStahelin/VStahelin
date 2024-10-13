@@ -21,9 +21,7 @@ class Developer:
         print(f"👋 Hello, I am {self.name}!")
         print(f"🧑‍💻 {self.title} | Python 🐍 Lover | Technology Explorer 💡")
         print(f"💼 Currently a {self.title} at {self.current_work}")
-        print(
-            f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}"
-        )
+        print(f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}")
         print("🚀 Always exploring new technologies and creating efficient solutions")
 
 
