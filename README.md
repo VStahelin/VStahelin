@@ -73,6 +73,6 @@ if __name__ == "__main__":
 - 💼 [LinkedIn – Vitor José Stähelin](https://www.linkedin.com/in/vitorjosestahelin/)
 - 📧 **vitor@stahelin.dev**
 
-### 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=VStahelin&color=blue&style=for-the-badge) 👀
 
-![Profile Views](https://komarev.com/ghpvc/?username=VStahelin&color=blue&style=flat-square)
+
