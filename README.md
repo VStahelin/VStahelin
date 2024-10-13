@@ -1,10 +1,76 @@
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=VStahelin&theme=blueberry&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VStahelin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark)
+# 👋 Hello, I am Vitor José Stähelin!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VStahelin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```python
+class Developer:
+    def __init__(self, name, title, experience_years, technologies):
+        self.name = name
+        self.title = title
+        self.experience_years = experience_years
+        self.technologies = technologies
+
+    def introduce(self):
+        print(f"👋 Hello, I am {self.name}!")
+        print(f"🧑‍💻 {self.title} | Python 🐍 Lover | Technology Explorer 💡")
+        print(f"💼 Currently a {self.title} at Zarpo Viagens")
+        print(f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}")
+        print("🚀 Always exploring new technologies and creating efficient solutions")
+
+# Defining the developer
+vitor = Developer(
+    name="Vitor José Stähelin",
+    title="Full-Stack Developer",
+    experience_years=6,
+    technologies=["Python", "APIs", "IoT", "Embedded Systems"]
+)
+
+# Calling the introduction function
+vitor.introduce()
+```
+
+---
+
+### 🌐 [My portfolio – stahelin.dev](https://stahelin.dev)
+
+### 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/vitorjosestahelin/)
+
+---
+
+### 🛠️ Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge" alt="Django" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&style=for-the-badge" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" />
+  <img src="https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+</p>
+
+---
+
+### 🚀 Featured Projects:
+
+- [**Merry**](https://github.com/GomuGomuu/merry): APIaaS designed as a wallet for One Piece TCG players. Allows to manage their card collections, track values, and operate as a marketplace. (Python, DRF, Redis, Celery, Docker)
+- [**OLOP Price Scraping**](https://github.com/GomuGomuu/olop-price-scraping): Web scraper for OLOP site, merging common scraping tactics with selenium/bf4 with computer vision to collect card values, all served through a flask API (Python, Flask, Redis, BS4, OCR)
+- [**Portfolio**](https://github.com/VStahelin/portfolio): My personal portfolio project built with **React** and **TypeScript**. **~In progress** (Typescript, React, Tailwind)
+- [**CMS Portfolio**](https://github.com/VStahelin/cms-portfolio): Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages. (GH Actions)
+- [**LOL Live Team Companion**](https://github.com/VStahelin/lol-live-team-companion): Little project to monitor League of Legends client and server live data to send everything to a shared dashboard. **~In progress**
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VStahelin&theme=blueberry&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VStahelin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
+</p>
+
+### 📬 Get in Touch:
+
+- 🌐 [Portfolio – stahelin.dev](https://stahelin.dev)
+- 💼 [LinkedIn – Vitor José Stähelin](https://www.linkedin.com/in/vitorjosestahelin/)
+- 📧 **vitor@stahelin.dev**
