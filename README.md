@@ -1,4 +1,3 @@
-
 # 👋 Hello, I am Vitor José Stähelin!
 
 ```python
@@ -44,7 +43,6 @@ if __name__ == "__main__":
 # 🚀 Always exploring new technologies and creating efficient solutions
 ```
 
-
 ### 🛠️ Tech Stack:
 
 <p align="center">
@@ -60,15 +58,14 @@ if __name__ == "__main__":
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
 </p>
 
-
 ### 🚀 Featured Projects:
 
+- [white**Stone**_*dev*]([https://](https://www.instagram.com/whitestonedev)https://): Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.
 - [**Merry**](https://github.com/GomuGomuu/merry): APIaaS designed as a wallet for One Piece TCG players. Allows to manage their card collections, track values, and operate as a marketplace. (Python, DRF, Redis, Celery, Docker)
 - [**OLOP Price Scraping**](https://github.com/GomuGomuu/olop-price-scraping): Web scraper for OLOP site, merging common scraping tactics with selenium/bf4 with computer vision to collect card values, all served through a flask API (Python, Flask, Redis, BS4, OCR)
 - [**Portfolio**](https://github.com/VStahelin/portfolio): My personal portfolio project built with **React** and **TypeScript**. **~In progress** (Typescript, React, Tailwind)
 - [**CMS Portfolio**](https://github.com/VStahelin/cms-portfolio): Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages. (GH Actions)
 - [**LOL Live Team Companion**](https://github.com/VStahelin/lol-live-team-companion): Little project to monitor League of Legends client and server live data to send everything to a shared dashboard. **~In progress**
-
 
 ### 📬 Get in Touch:
 
