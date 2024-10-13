@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
 ### 🚀 Featured Projects:
 
-- [white**Stone**_*dev*]([https://](https://www.instagram.com/whitestonedev)https://): Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.
+- [white**Stone**_*dev*](https://www.instagram.com/whitestonedev): Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.
 - [**Merry**](https://github.com/GomuGomuu/merry): APIaaS designed as a wallet for One Piece TCG players. Allows to manage their card collections, track values, and operate as a marketplace. (Python, DRF, Redis, Celery, Docker)
 - [**OLOP Price Scraping**](https://github.com/GomuGomuu/olop-price-scraping): Web scraper for OLOP site, merging common scraping tactics with selenium/bf4 with computer vision to collect card values, all served through a flask API (Python, Flask, Redis, BS4, OCR)
 - [**Portfolio**](https://github.com/VStahelin/portfolio): My personal portfolio project built with **React** and **TypeScript**. **~In progress** (Typescript, React, Tailwind)
