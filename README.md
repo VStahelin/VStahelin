@@ -4,12 +4,12 @@
 ```python
 class Developer:
     def __init__(
-        self,
-        name: str,
-        title: str,
-        current_work: str,
-        experience_years: int,
-        technologies: list[str],
+            self,
+            name: str,
+            title: str,
+            current_work: str,
+            experience_years: int,
+            technologies: list[str],
     ):
         self.name = name
         self.title = title
@@ -27,7 +27,6 @@ class Developer:
         print("🚀 Always exploring new technologies and creating efficient solutions")
 
 
-# Defining the developer
 vitor = Developer(
     name="Vitor José Stähelin",
     title="Full-Stack Developer",
@@ -36,7 +35,6 @@ vitor = Developer(
     technologies=["Python", "TypeScript", "Django", "React", "Docker"],
 )
 
-# Calling the introduction function
 if __name__ == "__main__":
     vitor.introduce()
 
