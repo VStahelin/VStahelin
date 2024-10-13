@@ -51,6 +51,7 @@ if __name__ == "__main__":
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge" alt="Django" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&style=for-the-badge" alt="TailwindCSS" />
@@ -76,3 +77,7 @@ if __name__ == "__main__":
 - 🌐 [Portfolio – stahelin.dev](https://stahelin.dev)
 - 💼 [LinkedIn – Vitor José Stähelin](https://www.linkedin.com/in/vitorjosestahelin/)
 - 📧 **vitor@stahelin.dev**
+
+### 👀 Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=VStahelin&color=blue&style=flat-square)
