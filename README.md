@@ -3,7 +3,14 @@
 
 ```python
 class Developer:
-    def __init__(self, name: str, title: str, current_work: str ,experience_years: int, technologies: list[str]):
+    def __init__(
+        self,
+        name: str,
+        title: str,
+        current_work: str,
+        experience_years: int,
+        technologies: list[str],
+    ):
         self.name = name
         self.title = title
         self.current_work = current_work
@@ -14,8 +21,11 @@ class Developer:
         print(f"👋 Hello, I am {self.name}!")
         print(f"🧑‍💻 {self.title} | Python 🐍 Lover | Technology Explorer 💡")
         print(f"💼 Currently a {self.title} at {self.current_work}")
-        print(f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}")
+        print(
+            f"👨‍💻 Over {self.experience_years} years of experience with {', '.join(self.technologies)}"
+        )
         print("🚀 Always exploring new technologies and creating efficient solutions")
+
 
 # Defining the developer
 vitor = Developer(
@@ -23,14 +33,15 @@ vitor = Developer(
     title="Full-Stack Developer",
     current_work="Zarpo Viagens",
     experience_years=6,
-    technologies=["Python", "TypeScript", "Django", "React", "Docker"]
+    technologies=["Python", "TypeScript", "Django", "React", "Docker"],
 )
 
 # Calling the introduction function
-vitor.introduce()
+if __name__ == "__main__":
+    vitor.introduce()
 
 # Output:
-# 👋 Hello, I am Vitor José Stähelin
+# 👋 Hello, I am Vitor José Stähelin!
 # 🧑‍💻 Full-Stack Developer | Python 🐍 Lover | Technology Explorer 💡
 # 💼 Currently a Full-Stack Developer at Zarpo Viagens
 # 👨‍💻 Over 6 years of experience with Python, TypeScript, Django, React, Docker
