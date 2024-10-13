@@ -58,7 +58,7 @@ if __name__ == "__main__":
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
   <img src="https://raw.githubusercontent.com/VStahelin/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
   <img src="https://raw.githubusercontent.com/VStahelin/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
-  <p align="center"><i>*Status does not account for contributions in company repositories</i></p>
+  <p align="center"><i>*Status does not account for contributions in company repositories, my major contributions are there =(</i></p>
 </p>
 
 ### 🚀 Featured Projects:
