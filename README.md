@@ -28,13 +28,6 @@ vitor = Developer(
 vitor.introduce()
 ```
 
----
-
-### 🌐 [My portfolio – stahelin.dev](https://stahelin.dev)
-
-### 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/vitorjosestahelin/)
-
----
 
 ### 🛠️ Tech Stack:
 
@@ -49,7 +42,6 @@ vitor.introduce()
   <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 </p>
 
----
 
 ### 🚀 Featured Projects:
 
@@ -59,7 +51,6 @@ vitor.introduce()
 - [**CMS Portfolio**](https://github.com/VStahelin/cms-portfolio): Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages. (GH Actions)
 - [**LOL Live Team Companion**](https://github.com/VStahelin/lol-live-team-companion): Little project to monitor League of Legends client and server live data to send everything to a shared dashboard. **~In progress**
 
----
 
 ### 📊 GitHub Stats:
 
