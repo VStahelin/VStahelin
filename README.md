@@ -54,7 +54,8 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />  
+</br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VStahelin&theme=github_dark" alt="Profile Details" />
   <img src="https://raw.githubusercontent.com/VStahelin/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
   <img src="https://raw.githubusercontent.com/VStahelin/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
