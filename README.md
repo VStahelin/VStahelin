@@ -27,7 +27,7 @@ class Engineer:
 vitor = Engineer(
     name="Vitor José Stähelin",
     title="Full-Stack Engineer",
-    current_work="Zarpo Viagens",
+    current_work="Mercado Livre",
     experience_years=6,
     technologies=["Python", "TypeScript", "Django", "React", "Docker"],
 )
@@ -38,7 +38,7 @@ if __name__ == "__main__":
 # Output:
 # 👋 Hello, I am Vitor José Stähelin!
 # 🧑‍💻 Full-Stack Engineer | Python 🐍 Lover | Technology Explorer 💡
-# 💼 Currently a Full-Stack Engineer at Zarpo Viagens
+# 💼 Currently a Full-Stack Engineer at Mercado Livre
 # 👨‍💻 Over 6 years of experience with Python, TypeScript, Django, React, Docker
 # 🚀 Always exploring new technologies and creating efficient solutions
 ```
